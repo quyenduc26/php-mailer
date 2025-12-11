@@ -16,4 +16,9 @@ Link: https://myaccount.google.com/apppasswords
 1. Change email, username, passcode
 2. Attach file (optional)
 
+### Exercise:
+1. Add dynamic variables into email content (username, email, content, typeOfEmail(invoice, notify, adv,..), pronouns)
+2. Create file(txt) with above information
+3. Attach file(txt) with above information
+
 
